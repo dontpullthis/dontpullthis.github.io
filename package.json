@@ -1,7 +1,7 @@
 {
   "name": "dontpullthis.github.io",
   "version": "1.0.0",
-  "homepage": "https://github.com/dontpullthis/dontpullthis.github.io",
+  "homepage": "https://dontpullthis.github.io",
   "private": true,
   "dependencies": {
     "@mdi/font": "^4.2.95",
